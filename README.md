@@ -1,6 +1,6 @@
 # Team Members and duties :
 
-- الامير عبدالعزيز شوقى ابو النصر ... 20120113 
-- مختار خالد عبد الحليم سلام ...  20120116
-- محمد شعبان محمد محمد ... 20110343
-- احمد مصطفى محمد حسن .. 20120077
+- El Ameer Abd El Aziz Shawky Abo El Nasr ...  20120113 => PlayerInputs , Adding Unity Components and commited code on github 
+- Mokhtar Khaled Abd El Hameed Sallam ...  20120116 => AICarMovement and provided some edits with unity sprites and prefabs 
+- Mohamed Shabaan Mohamed Mohamed ... 20110343 => CarLapCounter
+- Ahmed Mostafa MOhamed Hassan .. 20120077 => CarMovement and TrackLapTrigger
